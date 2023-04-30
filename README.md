@@ -6,9 +6,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bemart93@gmail.com)
 
 And welcome to my GitHub page! The most important part here is I'm Fullstack Developer living in Madrid.
-<br>
-<br>
-<img width="20%" align="right" alt="GIF" src="https://i.pinimg.com/564x/35/33/fa/3533fa8ee3c597ebc833357920476e79.jpg"/>
+
+<img width="25%" align="right" alt="GIF" src="https://i.pinimg.com/564x/35/33/fa/3533fa8ee3c597ebc833357920476e79.jpg"/>
 
 ### 🔭 Things I'm working on: 
 - Taking online coding courses. (Everyday we can learn something new). 
