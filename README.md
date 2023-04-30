@@ -7,8 +7,6 @@
 
 And welcome to my GitHub page! The most important part here is I'm Fullstack Developer living in Madrid.
 
-<img width="20%" align="right" alt="GIF" src="https://i.pinimg.com/564x/35/33/fa/3533fa8ee3c597ebc833357920476e79.jpg"/>
-
 ### 🔭 Things I'm working on: 
 - Taking online coding courses. (Everyday we can learn something new). 
 - Projects on my own. (It's funny, practical and definitely it's the best way to improve).
@@ -25,7 +23,7 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
 - Finishing of reading all my books.
 <br>
 <h2 align="center">
-  💻 Programming languages and tools
+  Programming languages and tools
 </h2>
 <p align="center">
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
@@ -44,11 +42,12 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
 </p>
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Daggy1234">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
   </a>
 </p>
+<img width="20%" align="right" alt="GIF" src="https://i.pinimg.com/564x/35/33/fa/3533fa8ee3c597ebc833357920476e79.jpg"/>
 
 
 
