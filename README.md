@@ -49,6 +49,7 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
   <a href="https://github.com/Daggy1234">
      <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
   </a>
+<p width="30%">
   <h3 align="right">
     Trying to create user experiences that are: 
   </h3>
@@ -57,6 +58,7 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
 <p align="left">Different</p>
 <p align="left">Intuitive</p>
 <p align="left">Original</p>
+</p>
 </p>
 
 
