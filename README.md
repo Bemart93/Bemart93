@@ -43,21 +43,21 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/android/android-official.svg"></code>
 </p>
 <br>
-
+<br>
 <p align="center">
   <a href="https://github.com/Daggy1234">
-     <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
+     <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
   </a>
 
-  <h3 align="left">
+  <h3 align="right">
     Trying to create user experiences that are: 
   </h3>
 
-<p align="left">Responsive</p>
-<p align="left">Dynamic</p>
-<p align="left">Different</p>
-<p align="left">Intuitive</p>
-<p align="left">Original</p>
+<p align="right">Responsive</p>
+<p align="right">Dynamic</p>
+<p align="right">Different</p>
+<p align="right">Intuitive</p>
+<p align="right">Original</p>
 </p>
 
 
