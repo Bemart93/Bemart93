@@ -43,12 +43,12 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/android/android-official.svg"></code>
 </p>
 <p align="center">
+ <br>
+  <h2 align="center">
+     Trying to create user experiences that are: 
+  </h2>
   <br>
   <br>
-  <br>
-  <h3>
-        Trying to create user experiences that are: 
-      </h3>
   <a href="https://github.com/Daggy1234">
      <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
   </a>
