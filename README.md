@@ -44,22 +44,21 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
 </p>
 <br>
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/Daggy1234">
-     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
+     <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
   </a>
-</p>
 
-<h3 align="left">
+  <h3 align="left">
     Trying to create user experiences that are: 
-</h3>
+  </h3>
 
 <p align="left">Responsive</p>
 <p align="left">Dynamic</p>
 <p align="left">Different</p>
 <p align="left">Intuitive</p>
 <p align="left">Original</p>
-
+</p>
 
 
 <!--
