@@ -26,24 +26,24 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
   💻 Programming languages and tools
 </h2>
 <p align="center">
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/android/android-official.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/android/android-official.svg"></code>
 </p>
 
 <p align="center">
   <a href="https://github.com/Daggy1234">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=radical&hide=glsl" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
   </a>
 </p>
 
