@@ -39,6 +39,13 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/android/android-official.svg"></code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Daggy1234">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact" />
+  </a>
 </p>
 
 
