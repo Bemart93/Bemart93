@@ -7,7 +7,7 @@
 
 And welcome to my GitHub page! The most important part here is I'm Fullstack Developer living in Madrid.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/564x/02/63/7a/02637a8d4b36894dca7dd8b965daec4a.jpg" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/564x/92/45/50/924550f254f939c1fceaa2e6424b0b4c.jpg" />
 
 #### 🔭 Things I'm working on: 
 - Taking online coding courses. (Everyday we can learn something new). 
