@@ -26,15 +26,15 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
   💻 Programming languages and tools:
 </h2>
 <p align="center">
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg]"></code>
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg]"></code>
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg]"></code>
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg]"></code>
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg]"></code>
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/angular/angular-icon.svg]"></code>
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg]"></code>
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg]"></code>
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg]"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 
 </p>
 
