@@ -52,7 +52,7 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
   <a href="https://github.com/Daggy1234">
      <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
   </a>
-    <p width="30%" align="center">
+    <p width="30%" align="right">
         <p>📱 <strong>Responsive</strong></p>
         <p>🚀 <strong>Dynamic</strong></p>
         <p>⚛️ <strong>Different</strong></p>
