@@ -44,10 +44,10 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
 </p>
 <p align="center">
   <br>
+  <br>
   <a href="https://github.com/Daggy1234">
      <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
   </a>
-  <br>
   <br>
     <p width="20%" align="left">
       <h4>
