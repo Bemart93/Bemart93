@@ -43,11 +43,10 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
 
 <p align="center">
   <a href="https://github.com/Daggy1234">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=radical&hide=glsl" />
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bemart93&theme=ayu-mirage&hide_border=true&locale=es&mode=weekly)](https://git.io/streak-stats)
 
 
 
