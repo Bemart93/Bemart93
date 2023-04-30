@@ -1,11 +1,11 @@
-# Hi! Nice to see you. 
+# Hi! Nice to see you 
 ## This is Beatriz 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Bemart93)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-martinez-larrucea/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bemart93@gmail.com)
 
-And welcome to my GitHub page! The only thing I can say and which is the most important part here is I'm Fullstack Developer living in Madrid.
+And welcome to my GitHub page! The most important part here is I'm Fullstack Developer living in Madrid.
 
 #### 🔭 Things I'm working on: 
 - Taking online coding courses. (Everyday we can learn something new). 
@@ -22,8 +22,21 @@ And welcome to my GitHub page! The only thing I can say and which is the most im
 - Travelling as much as possible.
 - Finishing of reading all my books.
 
-#### 💻 Programming languages and tools:
-<code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<h2 align="center">
+  💻 Programming languages and tools:
+</h2>
+<p align="center">
+<code><img width="10%" src="[https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg]"></code>
+<code><img width="10%" src="[https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg]"></code>
+<code><img width="10%" src="[https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg]"></code>
+<code><img width="10%" src="[https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg]"></code>
+<code><img width="10%" src="[https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg]"></code>
+<code><img width="10%" src="[https://www.vectorlogo.zone/logos/angular/angular-icon.svg]"></code>
+<code><img width="10%" src="[https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg]"></code>
+<code><img width="10%" src="[https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg]"></code>
+<code><img width="10%" src="[https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg]"></code>
+
+</p>
 
 
 
