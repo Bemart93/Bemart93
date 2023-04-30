@@ -7,19 +7,19 @@
 
 And welcome to my GitHub page! The most important part here is I'm Fullstack Developer living in Madrid.
 
-<img width="30%" align="right" alt="GIF" src="https://i.pinimg.com/564x/92/45/50/924550f254f939c1fceaa2e6424b0b4c.jpg" />
+<img width="30%" align="right" alt="GIF" src="https://i.pinimg.com/564x/35/33/fa/3533fa8ee3c597ebc833357920476e79.jpg"/>
 
-#### 🔭 Things I'm working on: 
+### 🔭 Things I'm working on: 
 - Taking online coding courses. (Everyday we can learn something new). 
 - Projects on my own. (It's funny, practical and definitely it's the best way to improve).
 - My career as fullstack Developer. (Starting in banking sector and will see where it takes me) 
 
-#### 🌱 Things I'm trying my best: 
+### 🌱 Things I'm trying my best: 
 - Wake up earlier to seize the day... (I'm still trying).
 - Code every week on my own projects. (I'm getting there).
 - Prepare the best pizza ever... (Yeah... I still need some practice)
 
-#### ⚡ Things I eventually going to achieve: 
+### ⚡ Things I eventually going to achieve: 
 - Living as I want.
 - Travelling as much as possible.
 - Finishing of reading all my books.
