@@ -48,30 +48,14 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
   <a href="https://github.com/Daggy1234">
      <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
   </a>
-<p width="20%">
-  <h3 align="left">
-    Trying to create user experiences that are: 
-  </h3>
-<p align="left">Responsive</p>
-<p align="left">Dynamic</p>
-<p align="left">Different</p>
-<p align="left">Intuitive</p>
-<p align="left">Original</p>
+    <p width="20%" align="left">
+      <h3>
+        Trying to create user experiences that are: 
+      </h3>
+        <p>Responsive</p>
+        <p>Dynamic</p>
+        <p>Different</p>
+        <p>Intuitive</p>
+        <p>Original</p>
+    </p>
 </p>
-</p>
-
-
-<!--
-**Bemart93/Bemart93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
