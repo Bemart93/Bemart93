@@ -25,7 +25,6 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
 <h2 align="center">
   💻 Programming languages and tools - FRONTEND
 </h2>
-<hr>
 <p align="center">
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
@@ -47,6 +46,7 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact" />
   </a>
 </p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bemart93&theme=ayu-mirage&hide_border=true&locale=es&mode=weekly)](https://git.io/streak-stats)
 
 
 
