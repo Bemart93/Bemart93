@@ -52,13 +52,13 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
 <h3 align="right"
     Trying to create user experiences that are: 
 </h3>
-<ul align="right">
-  <li>Responsive</li>
-  <li>Dynamic</li>
-  <li>Different</li>
-  <li>Intuitive</li>
-  <li>Original</li>
-</ul>
+
+- Responsive
+- Dynamic
+- Different
+- Intuitive
+- Original
+
 
 
 <!--
