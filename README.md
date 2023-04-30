@@ -50,14 +50,14 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
   <br>
   <br>
   <a href="https://github.com/Daggy1234">
-     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
+     <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
   </a>
-    <p width="20%" align="left">
-        <p>📱 Responsive</p>
-        <p>🚀 Dynamic</p>
-        <p>⚛️ Different</p>
-        <p>🖐️ Intuitive</p>
-        <p>💥 Original</p>
-        <p>🛡️ Secure </p>
+    <p width="30%" align="center">
+        <p>📱 <strong>Responsive</strong></p>
+        <p>🚀 <strong>Dynamic</strong></p>
+        <p>⚛️ <strong>Different</strong></p>
+        <p>🖐️ <strong>Intuitive</strong></p>
+        <p>💥 <strong>Original</strong></p>
+        <p>🛡️ <strong>Secure</strong></p>
     </p>
 </p>
