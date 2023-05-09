@@ -1,13 +1,12 @@
 # Hi! Nice to see you 
 ## This is Beatriz 👋
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Bemart93)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-martinez-larrucea/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bemart93@gmail.com)
 
 And welcome to my GitHub page! The most important part here is I'm Fullstack Developer living in Spain.
 
-<img width="25%" align="right" alt="GIF" src="https://i.pinimg.com/564x/35/33/fa/3533fa8ee3c597ebc833357920476e79.jpg"/>
+
 
 ### 🔭 Things I'm working on: 
 - Taking online coding courses. (Everyday we can learn something new). 
