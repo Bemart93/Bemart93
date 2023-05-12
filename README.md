@@ -52,6 +52,6 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
       <br>
       <br>
     <a href="https://github.com/Daggy1234">
-     <img align="center" width="40%" margin-right="5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
+     <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
   </a>
 </p>
