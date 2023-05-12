@@ -48,7 +48,7 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
   </h2>
   <br>
   <br>
-     <p>📱 <strong>Responsive</strong> - 🚀 <strong>Dynamic</strong> - ⚛️ <strong>Different</strong> - 🖐️ <strong>Intuitive</strong> - 💥 <strong>Original</strong> -🛡️ <strong>Secure</strong></p>
+     <p align="center">📱 <strong>Responsive</strong> - 🚀 <strong>Dynamic</strong> - ⚛️ <strong>Different</strong> - 🖐️ <strong>Intuitive</strong> - 💥 <strong>Original</strong> -🛡️ <strong>Secure</strong></p>
       <br>
       <br>
     <a href="https://github.com/Daggy1234">
