@@ -48,15 +48,10 @@ And welcome to my GitHub page! The most important part here is I'm Fullstack Dev
   </h2>
   <br>
   <br>
-  <a href="https://github.com/Daggy1234">
-     <img align="right" width="40%" margin-right="5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
+     <p>📱 <strong>Responsive</strong> - 🚀 <strong>Dynamic</strong> - ⚛️ <strong>Different</strong> - 🖐️ <strong>Intuitive</strong> - 💥 <strong>Original</strong> -🛡️ <strong>Secure</strong></p>
+      <br>
+      <br>
+    <a href="https://github.com/Daggy1234">
+     <img align="center" width="40%" margin-right="5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemart93&layout=compact&theme=monokai&hide=glsl" />
   </a>
-    <p width="30%" align="center">
-        <p align="center">📱 <strong>Responsive</strong></p>
-        <p align="center">🚀 <strong>Dynamic</strong></p>
-        <p align="center">⚛️ <strong>Different</strong></p>
-        <p align="center">🖐️ <strong>Intuitive</strong></p>
-        <p align="center">💥 <strong>Original</strong></p>
-        <p align="center">🛡️ <strong>Secure</strong></p>
-    </p>
 </p>
